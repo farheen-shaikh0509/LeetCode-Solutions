@@ -245,6 +245,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0261-graph-valid-tree) |
 | [0279-perfect-squares](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0407-trapping-rain-water-ii/) | Hard |
@@ -365,6 +366,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0261-graph-valid-tree) |
 | [0337-house-robber-iii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -438,4 +440,9 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0261-graph-valid-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0261-graph-valid-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0261-graph-valid-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0261-graph-valid-tree) |
 <!---LeetCode Topics End-->
