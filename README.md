@@ -115,6 +115,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0049-group-anagrams/) | Medium |
+| [0139-word-break](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0415-add-strings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0420-strong-password-checker/) | Hard |
 | [0443-string-compression](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0443-string-compression) |
@@ -145,6 +146,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0163-missing-ranges](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0163-missing-ranges/) | Easy |
 | [0169-majority-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0198-house-robber) |
@@ -178,6 +180,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0049-group-anagrams/) | Medium |
 | [0133-clone-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -275,6 +278,7 @@
 | [0085-maximal-rectangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0279-perfect-squares) |
@@ -397,6 +401,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Knapsack Problem
@@ -448,4 +453,12 @@
 |  |
 | ------- |
 | [0261-graph-valid-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0261-graph-valid-tree) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
