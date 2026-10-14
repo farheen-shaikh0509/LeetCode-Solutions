@@ -176,6 +176,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0049-group-anagrams/) | Medium |
+| [0133-clone-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -242,6 +243,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0322-coin-change) |
@@ -361,6 +363,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -431,4 +434,8 @@
 |  |
 | ------- |
 | [0252-meeting-rooms](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0252-meeting-rooms) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
