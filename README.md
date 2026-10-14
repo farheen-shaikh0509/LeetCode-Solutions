@@ -149,6 +149,7 @@
 | [0198-house-robber](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0252-meeting-rooms](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0322-coin-change) |
@@ -216,6 +217,7 @@
 | [0018-4sum](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0252-meeting-rooms](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0645-set-mismatch](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -425,4 +427,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0252-meeting-rooms](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0252-meeting-rooms) |
 <!---LeetCode Topics End-->
