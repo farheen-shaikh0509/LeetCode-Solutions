@@ -157,6 +157,7 @@
 | [0169-majority-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0252-meeting-rooms](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -237,6 +238,7 @@
 | [0049-group-anagrams](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0049-group-anagrams/) | Medium |
 | [0148-sort-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0252-meeting-rooms](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -277,6 +279,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0420-strong-password-checker](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0420-strong-password-checker/) | Hard |
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
@@ -339,6 +342,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1763-longest-nice-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 ## Simulation
 |  |
@@ -503,4 +507,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0148-sort-list) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
