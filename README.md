@@ -172,6 +172,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -247,6 +248,7 @@
 | [0252-meeting-rooms](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
 ## Linked List
@@ -321,6 +323,7 @@
 | [0338-counting-bits](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -334,6 +337,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0420-strong-password-checker](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0420-strong-password-checker/) | Hard |
+| [0435-non-overlapping-intervals](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
 ## Prefix Sum
