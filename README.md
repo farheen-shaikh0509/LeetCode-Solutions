@@ -147,6 +147,7 @@
 | [0053-maximum-subarray](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
