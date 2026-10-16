@@ -151,6 +151,7 @@
 | [0055-jump-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -198,6 +199,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0133-clone-graph) |
@@ -308,6 +310,7 @@
 | [0048-rotate-image](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0407-trapping-rain-water-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
