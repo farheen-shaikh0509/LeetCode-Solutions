@@ -3,13 +3,13 @@ class Solution {
         int m = board.length;
         int n = board[0].length;
 
-        // Optimization: Start searching from the rarer end of the word
+        // Start searching from the rarer end of the word
         if (boardCount(board, word.charAt(0)) >
             boardCount(board, word.charAt(word.length() - 1))) {
             word = new StringBuilder(word).reverse().toString();
         }
 
-        // Try starting the search from every cell
+        //  starting the search from every cell
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (dfs(board, word, i, j, 0)) {
