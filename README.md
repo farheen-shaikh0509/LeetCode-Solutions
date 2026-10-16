@@ -146,6 +146,7 @@
 | [0049-group-anagrams](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -307,6 +308,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0010-regular-expression-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
@@ -337,6 +339,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0420-strong-password-checker](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0420-strong-password-checker/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
