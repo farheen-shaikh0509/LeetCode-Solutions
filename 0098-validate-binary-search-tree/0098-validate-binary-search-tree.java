@@ -28,7 +28,7 @@ class Solution {
 
          return validate(node.left, min, node.val)
 
-            && validate(node.right, node.val, max);
+    && validate(node.right, node.val, max);
 
     }
 
