@@ -115,6 +115,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0049-group-anagrams/) | Medium |
+| [0091-decode-ways](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0271-encode-and-decode-strings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0415-add-strings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0415-add-strings) |
@@ -317,6 +318,7 @@
 | [0064-minimum-path-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0091-decode-ways](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0139-word-break) |
