@@ -452,6 +452,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -462,6 +463,7 @@
 | [0133-clone-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0337-house-robber-iii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
@@ -477,6 +479,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -595,4 +598,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
