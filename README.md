@@ -171,6 +171,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0252-meeting-rooms](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0300-longest-increasing-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -229,6 +230,7 @@
 | [0143-reorder-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0253-meeting-rooms-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0443-string-compression](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -259,6 +261,7 @@
 | [0169-majority-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0252-meeting-rooms](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -305,6 +308,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0420-strong-password-checker](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0420-strong-password-checker/) | Hard |
@@ -359,6 +363,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0253-meeting-rooms-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0420-strong-password-checker](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0420-strong-password-checker/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -367,6 +372,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Divide and Conquer
 |  |
