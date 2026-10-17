@@ -6,19 +6,15 @@ private PriorityQueue<Integer> small;
 private PriorityQueue<Integer> large; // Min
 
  public MedianFinder() {
-        small = new PriorityQueue<>(Collections.reverseOrder());
-        large = new PriorityQueue<>();
-    }
+ small = new PriorityQueue<>(Collections.reverseOrder());     large = new PriorityQueue<>(); }
 
 public void addNum(int num) {
  small.offer(num);
-
-        // Move the largest element from small to large.
+// Move the largest element from small to large.
   large.offer(small.poll());
-
-        // Balance the heaps.
-        if (small.size() < large.size()) {
-            small.offer(large.poll());
+// Balance the heaps.
+ if (small.size() < large.size()) {
+ small.offer(large.poll());
         }
     }
 
