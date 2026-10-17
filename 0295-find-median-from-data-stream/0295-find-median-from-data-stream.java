@@ -17,9 +17,8 @@ public void addNum(int num) {
  small.offer(large.poll());
         }
     }
-
     public double findMedian() {
-        if (small.size() > large.size()) {
+   if (small.size() > large.size()) {
             return small.peek();
         }
 
