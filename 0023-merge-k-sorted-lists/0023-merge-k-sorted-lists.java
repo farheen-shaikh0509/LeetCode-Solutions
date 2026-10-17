@@ -31,3 +31,6 @@ while(!minHeap.isEmpty()){
 return dummy.next;    
     }
 }
+
+// Time = O(Nlogk)
+//space = O(k), for min heap
