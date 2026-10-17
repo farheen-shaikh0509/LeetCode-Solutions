@@ -129,6 +129,7 @@
 | [0474-ones-and-zeroes](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1763-longest-nice-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String Matching
@@ -360,6 +361,7 @@
 | [0740-delete-and-earn](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Greedy
 |  |
@@ -624,4 +626,8 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
