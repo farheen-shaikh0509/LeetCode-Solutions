@@ -12,7 +12,7 @@ public void addNum(int num) {
  small.offer(num);
 // Move the largest element from small to large.
   large.offer(small.poll());
-// Balance the heaps.
+// Balance the heaps
  if (small.size() < large.size()) {
  small.offer(large.poll());
         }
