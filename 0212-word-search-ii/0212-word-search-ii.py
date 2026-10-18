@@ -45,3 +45,7 @@ class Solution:
                 dfs(r, c, trie)
 
         return result
+
+        # Timme = O(W * L * M * N * 4 * 3 ^(L - 1)) for worst case
+        # Space = O(W * L + L)
+        
