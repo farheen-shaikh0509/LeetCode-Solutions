@@ -207,6 +207,7 @@
 | [0740-delete-and-earn](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1929-concatenation-of-array/) | Easy |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
@@ -335,6 +336,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0733-flood-fill](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
 |  |
@@ -361,6 +363,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
