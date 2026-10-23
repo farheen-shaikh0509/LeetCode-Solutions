@@ -8,13 +8,10 @@ class Solution {
         int maxfreq = 0;
         for(int count : freq){
             maxfreq = Math.max(maxfreq, count);
-
-
         }
         int maxCount = 0;
         for(int count : freq){
             if(count == maxfreq){
-
 maxCount++;
 
             }
