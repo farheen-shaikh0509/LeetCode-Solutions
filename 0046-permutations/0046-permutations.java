@@ -20,14 +20,14 @@ class Solution {
                 continue;
             }
 
-            // Choose
+
             current.add(nums[i]);
             used[i] = true;
 
-            // Explore
+
             backtrack(nums, current, used, result);
 
-            // Undo choice (backtrack)
+
             current.remove(current.size() - 1);
             used[i] = false;
         }
