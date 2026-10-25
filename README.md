@@ -498,6 +498,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -541,6 +542,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
@@ -562,6 +564,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
@@ -586,6 +589,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
