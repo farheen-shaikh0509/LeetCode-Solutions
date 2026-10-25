@@ -224,6 +224,7 @@
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3886-sum-of-sortable-integers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -317,6 +318,7 @@
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3886-sum-of-sortable-integers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -533,6 +535,7 @@
 | [0470-implement-rand10-using-rand7](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0509-fibonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [3886-sum-of-sortable-integers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Tree
 |  |
 | ------- |
@@ -766,4 +769,8 @@
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0470-implement-rand10-using-rand7) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
