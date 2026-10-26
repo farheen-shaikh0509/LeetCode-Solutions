@@ -265,6 +265,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3263-convert-doubly-linked-list-to-array-i) |
@@ -772,6 +773,7 @@
 | [1763-longest-nice-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
