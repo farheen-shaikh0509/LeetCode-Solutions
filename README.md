@@ -535,6 +535,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Greedy
 |  |
@@ -683,6 +684,7 @@
 | [2396-strictly-palindromic-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3886-sum-of-sortable-integers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Tree
 |  |
@@ -982,6 +984,7 @@
 |  |
 | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3886-sum-of-sortable-integers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
