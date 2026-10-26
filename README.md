@@ -163,6 +163,7 @@
 | [1763-longest-nice-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
 | [3110-score-of-a-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -265,6 +266,7 @@
 | [1929-concatenation-of-array](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1929-concatenation-of-array/) | Easy |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
@@ -494,6 +496,7 @@
 | [0733-flood-fill](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
 |  |
@@ -681,6 +684,7 @@
 | [0470-implement-rand10-using-rand7](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0509-fibonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2396-strictly-palindromic-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
