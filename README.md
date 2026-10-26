@@ -229,6 +229,7 @@
 | [0399-evaluate-division](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0414-third-maximum-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -367,6 +368,7 @@
 | [0347-top-k-frequent-elements](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
