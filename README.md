@@ -696,6 +696,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -727,6 +728,7 @@
 | [0733-flood-fill](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
 ## Binary Tree
 |  |
@@ -752,6 +754,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bit Manipulation
 |  |
 | ------- |
