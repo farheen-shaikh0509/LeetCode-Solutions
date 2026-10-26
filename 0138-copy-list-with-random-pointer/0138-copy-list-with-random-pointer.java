@@ -26,7 +26,6 @@ class Solution {
             copyCurr.next = curr.next;
             copyCurr = copyCurr.next;
             curr.next = nextNode;
-            
             curr = nextNode;
         }
         
