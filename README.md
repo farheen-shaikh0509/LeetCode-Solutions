@@ -144,6 +144,7 @@
 | [0392-is-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0408-valid-word-abbreviation](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0408-valid-word-abbreviation) |
 | [0412-fizz-buzz](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0420-strong-password-checker/) | Hard |
@@ -317,6 +318,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0408-valid-word-abbreviation](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0408-valid-word-abbreviation) |
 | [0443-string-compression](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
