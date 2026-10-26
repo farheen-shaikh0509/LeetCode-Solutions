@@ -255,6 +255,7 @@
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3263-convert-doubly-linked-list-to-array-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
@@ -394,6 +395,7 @@
 | [0206-reverse-linked-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [3263-convert-doubly-linked-list-to-array-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -954,4 +956,8 @@
 | ------- |
 | [0258-add-digits](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3263-convert-doubly-linked-list-to-array-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 <!---LeetCode Topics End-->
