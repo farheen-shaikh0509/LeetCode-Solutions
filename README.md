@@ -218,6 +218,7 @@
 | [0815-bus-routes](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0815-bus-routes) |
 | [0875-koko-eating-bananas](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1429-first-unique-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1429-first-unique-number) |
 | [1539-kth-missing-positive-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -260,6 +261,7 @@
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
 | [0815-bus-routes](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0815-bus-routes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1429-first-unique-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1429-first-unique-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1763-longest-nice-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -731,6 +733,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0359-logger-rate-limiter](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0359-logger-rate-limiter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
+| [1429-first-unique-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1429-first-unique-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -783,6 +786,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0359-logger-rate-limiter) |
+| [1429-first-unique-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1429-first-unique-number) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -812,4 +816,8 @@
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Queue
+|  |
+| ------- |
+| [1429-first-unique-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1429-first-unique-number) |
 <!---LeetCode Topics End-->
