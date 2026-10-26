@@ -216,6 +216,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0346-moving-average-from-data-stream](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0377-combination-sum-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
@@ -809,6 +810,7 @@
 | [0271-encode-and-decode-strings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0346-moving-average-from-data-stream](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0359-logger-rate-limiter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [1429-first-unique-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1429-first-unique-number) |
@@ -864,6 +866,7 @@
 | ------- |
 | [0170-two-sum-iii-data-structure-design](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0295-find-median-from-data-stream](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0346-moving-average-from-data-stream](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0359-logger-rate-limiter) |
 | [1429-first-unique-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1429-first-unique-number) |
 ## Bracket Sequences
@@ -900,6 +903,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0346-moving-average-from-data-stream](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0346-moving-average-from-data-stream) |
 | [1429-first-unique-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1429-first-unique-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Shortest Path
