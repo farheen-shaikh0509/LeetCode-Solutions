@@ -568,6 +568,7 @@
 | [0470-implement-rand10-using-rand7](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0509-fibonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [2413-smallest-even-multiple](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [3886-sum-of-sortable-integers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Tree
 |  |
@@ -851,4 +852,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
