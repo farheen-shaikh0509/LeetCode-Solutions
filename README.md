@@ -160,6 +160,7 @@
 | [1763-longest-nice-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
+| [3498-reverse-degree-of-a-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -563,6 +564,7 @@
 | [0415-add-strings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1929-concatenation-of-array/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3687-library-late-fee-calculator](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3687-library-late-fee-calculator) |
 ## Counting
 |  |
