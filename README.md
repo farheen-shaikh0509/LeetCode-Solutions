@@ -124,6 +124,7 @@
 | [0139-word-break](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
@@ -575,6 +576,7 @@
 | [0062-unique-paths](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0279-perfect-squares) |
