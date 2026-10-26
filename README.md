@@ -245,6 +245,7 @@
 | [0621-task-scheduler](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0704-binary-search](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -578,6 +579,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [1763-longest-nice-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 ## Simulation
 |  |
@@ -628,6 +630,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
@@ -647,6 +650,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -703,6 +707,7 @@
 | [0404-sum-of-left-leaves](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -763,6 +768,7 @@
 | [0404-sum-of-left-leaves](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1023,4 +1029,8 @@
 |  |
 | ------- |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1570-dot-product-of-two-sparse-vectors) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
