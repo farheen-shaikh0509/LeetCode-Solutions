@@ -131,6 +131,7 @@
 | [0243-shortest-word-distance](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0243-shortest-word-distance) |
 | [0246-strobogrammatic-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0246-strobogrammatic-number) |
 | [0257-binary-tree-paths](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0266-palindrome-permutation](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0266-palindrome-permutation) |
 | [0269-alien-dictionary](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0273-integer-to-english-words](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
@@ -272,6 +273,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0246-strobogrammatic-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0246-strobogrammatic-number) |
+| [0266-palindrome-permutation](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -682,6 +684,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0266-palindrome-permutation](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0266-palindrome-permutation) |
 | [0268-missing-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
