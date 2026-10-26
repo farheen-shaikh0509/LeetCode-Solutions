@@ -320,6 +320,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0270-closest-binary-search-tree-value](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0270-closest-binary-search-tree-value) |
 | [0278-first-bad-version](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -622,6 +623,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0270-closest-binary-search-tree-value](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0270-closest-binary-search-tree-value) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
@@ -646,6 +648,7 @@
 | [0257-binary-tree-paths](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0261-graph-valid-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0269-alien-dictionary) |
+| [0270-closest-binary-search-tree-value](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0270-closest-binary-search-tree-value) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0337-house-robber-iii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
@@ -674,6 +677,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0270-closest-binary-search-tree-value](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0270-closest-binary-search-tree-value) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
@@ -743,6 +747,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0270-closest-binary-search-tree-value](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0270-closest-binary-search-tree-value) |
 | [0449-serialize-and-deserialize-bst](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
