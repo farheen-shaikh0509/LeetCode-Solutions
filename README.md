@@ -164,6 +164,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
 | [3110-score-of-a-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String Matching
@@ -607,6 +608,7 @@
 | [0401-binary-watch](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -768,6 +770,7 @@
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3173-bitwise-or-of-adjacent-elements) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 ## Interactive
