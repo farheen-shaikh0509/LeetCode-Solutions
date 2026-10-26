@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/students-with-invalid-departments">1350. Students With Invalid Departments</a></h2><h3>Easy</h3><hr><p>Table: <code>Departments</code></p>
+<h2><a href="https://leetcode.com/problems/students-with-invalid-departments">1481. Students With Invalid Departments</a></h2><h3>Easy</h3><hr><p>Table: <code>Departments</code></p>
 
 <pre>
 +---------------+---------+
