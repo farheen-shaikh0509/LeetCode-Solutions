@@ -153,6 +153,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0459-repeated-substring-pattern](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0535-encode-and-decode-tinyurl](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0647-palindromic-substrings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -315,6 +316,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0535-encode-and-decode-tinyurl](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0621-task-scheduler](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0740-delete-and-earn](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
@@ -910,6 +912,7 @@
 | [0346-moving-average-from-data-stream](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0359-logger-rate-limiter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0535-encode-and-decode-tinyurl](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [1429-first-unique-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1429-first-unique-number) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1570-dot-product-of-two-sparse-vectors) |
 ## Merge Sort
@@ -1040,4 +1043,8 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
