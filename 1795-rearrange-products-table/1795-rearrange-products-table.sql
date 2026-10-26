@@ -18,4 +18,3 @@ Select product_id,
 store3 as price
 
 from Products WHERE store3 IS NOT NULL
-
