@@ -156,6 +156,7 @@
 | [0647-palindromic-substrings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1119-remove-vowels-from-a-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1119-remove-vowels-from-a-string) |
 | [1143-longest-common-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1763-longest-nice-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
