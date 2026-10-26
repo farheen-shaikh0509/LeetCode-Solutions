@@ -226,6 +226,7 @@
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3886-sum-of-sortable-integers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Hash Table
 |  |
 | ------- |
@@ -297,6 +298,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Sorting
 |  |
 | ------- |
@@ -321,6 +323,7 @@
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3886-sum-of-sortable-integers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Linked List
 |  |
 | ------- |
@@ -433,6 +436,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Greedy
 |  |
 | ------- |
