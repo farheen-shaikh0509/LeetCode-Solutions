@@ -191,6 +191,7 @@
 | [0157-read-n-characters-given-read4](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0157-read-n-characters-given-read4) |
 | [0163-missing-ranges](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0163-missing-ranges/) | Easy |
 | [0169-majority-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0198-house-robber](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
@@ -261,6 +262,7 @@
 | [0140-word-break-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0208-implement-trie-prefix-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -289,6 +291,7 @@
 | [0143-reorder-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0234-palindrome-linked-list](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
@@ -761,6 +764,7 @@
 ## Design
 |  |
 | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0208-implement-trie-prefix-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0271-encode-and-decode-strings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0271-encode-and-decode-strings) |
@@ -819,6 +823,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0295-find-median-from-data-stream](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0359-logger-rate-limiter) |
 | [1429-first-unique-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1429-first-unique-number) |
