@@ -272,6 +272,7 @@
 | [0994-rotting-oranges](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1043-partition-array-for-maximum-sum](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1140-stone-game-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1151-minimum-swaps-to-group-all-1s-together](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1151-minimum-swaps-to-group-all-1s-together) |
 | [1254-number-of-closed-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -740,6 +741,7 @@
 | [0076-minimum-window-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1151-minimum-swaps-to-group-all-1s-together](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1151-minimum-swaps-to-group-all-1s-together) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1763-longest-nice-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
