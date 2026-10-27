@@ -270,6 +270,7 @@
 | [0877-stone-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1043-partition-array-for-maximum-sum](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
+| [1140-stone-game-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -587,6 +588,7 @@
 | [0894-all-possible-full-binary-trees](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [1043-partition-array-for-maximum-sum](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1387-sort-integers-by-the-power-value](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
@@ -626,6 +628,7 @@
 | [0238-product-of-array-except-self](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0410-split-array-largest-sum/) | Hard |
+| [1140-stone-game-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -754,6 +757,7 @@
 | [0509-fibonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2396-strictly-palindromic-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -1152,12 +1156,15 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
