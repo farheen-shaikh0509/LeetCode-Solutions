@@ -125,6 +125,7 @@
 | [0097-interleaving-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0140-word-break-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -355,6 +356,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0143-reorder-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0234-palindrome-linked-list](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0234-palindrome-linked-list/) | Easy |
