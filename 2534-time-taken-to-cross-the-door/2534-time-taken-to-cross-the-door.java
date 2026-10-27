@@ -1,7 +1,3 @@
-import java.util.ArrayDeque;
-import java.util.Arrays;
-import java.util.Deque;
-
 class Solution {
     public int[] timeTaken(int[] arrival, int[] state) {
         int n = arrival.length;
