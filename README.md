@@ -578,6 +578,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
+| [2979-most-expensive-item-that-can-not-be-bought](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2979-most-expensive-item-that-can-not-be-bought) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
@@ -735,6 +736,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2396-strictly-palindromic-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
+| [2979-most-expensive-item-that-can-not-be-bought](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2979-most-expensive-item-that-can-not-be-bought) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -1095,6 +1097,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
+| [2979-most-expensive-item-that-can-not-be-bought](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2979-most-expensive-item-that-can-not-be-bought) |
 ## Doubly-Linked List
 |  |
 | ------- |
