@@ -278,6 +278,7 @@
 | [1395-count-number-of-teams](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1395-count-number-of-teams) |
 | [1429-first-unique-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1429-first-unique-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1504-count-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1539-kth-missing-positive-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -543,6 +544,7 @@
 | [0994-rotting-oranges](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1504-count-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1672-richest-customer-wealth](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1730-shortest-path-to-get-food](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1730-shortest-path-to-get-food) |
 | [1901-find-a-peak-element-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -601,6 +603,7 @@
 | [1387-sort-integers-by-the-power-value](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1395-count-number-of-teams](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1395-count-number-of-teams) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1504-count-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1641-count-sorted-vowel-strings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -719,6 +722,7 @@
 | [0316-remove-duplicate-letters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1504-count-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3205-maximum-array-hopping-score-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3205-maximum-array-hopping-score-i) |
 ## Sliding Window
@@ -740,6 +744,7 @@
 | [0085-maximal-rectangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
+| [1504-count-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [3205-maximum-array-hopping-score-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3205-maximum-array-hopping-score-i) |
 ## Math
 |  |
