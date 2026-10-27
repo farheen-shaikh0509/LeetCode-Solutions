@@ -271,6 +271,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1730-shortest-path-to-get-food](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1730-shortest-path-to-get-food) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1901-find-a-peak-element-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1929-concatenation-of-array/) | Easy |
@@ -488,6 +489,7 @@
 | [0994-rotting-oranges](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1730-shortest-path-to-get-food](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1730-shortest-path-to-get-food) |
 | [1971-find-if-path-exists-in-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
 |  |
@@ -520,6 +522,7 @@
 | [0994-rotting-oranges](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1730-shortest-path-to-get-food](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1730-shortest-path-to-get-food) |
 | [1901-find-a-peak-element-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
