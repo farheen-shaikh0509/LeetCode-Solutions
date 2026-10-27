@@ -272,6 +272,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1429-first-unique-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1429-first-unique-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -582,6 +583,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
@@ -701,6 +703,7 @@
 | [0076-minimum-window-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1763-longest-nice-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
