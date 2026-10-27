@@ -274,6 +274,7 @@
 | [1254-number-of-closed-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1395-count-number-of-teams](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1395-count-number-of-teams) |
 | [1429-first-unique-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1429-first-unique-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
@@ -594,6 +595,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1387-sort-integers-by-the-power-value](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
+| [1395-count-number-of-teams](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1395-count-number-of-teams) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1641-count-sorted-vowel-strings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
@@ -1105,10 +1107,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [1395-count-number-of-teams](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1395-count-number-of-teams) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [1395-count-number-of-teams](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1395-count-number-of-teams) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Queue
 |  |
