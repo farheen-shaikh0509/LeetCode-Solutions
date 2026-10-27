@@ -288,6 +288,7 @@
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3886-sum-of-sortable-integers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Hash Table
 |  |
@@ -338,6 +339,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -622,6 +624,7 @@
 | [0621-task-scheduler](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Backtracking
 |  |
 | ------- |
