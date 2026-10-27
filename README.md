@@ -283,6 +283,7 @@
 | [1672-richest-customer-wealth](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1730-shortest-path-to-get-food](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1730-shortest-path-to-get-food) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1901-find-a-peak-element-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1929-concatenation-of-array/) | Easy |
@@ -599,6 +600,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1641-count-sorted-vowel-strings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
