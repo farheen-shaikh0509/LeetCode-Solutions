@@ -1,46 +1,44 @@
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
-        List<List<Integer>> adjList = new ArrayList<>();
-        for(int i =0; i < numCourses; i++){
-            adjList.add(new ArrayList<>());
-
-
+        List<List<Integer>> adj = new ArrayList<>();
+        for (int i = 0; i < numCourses; i++) {
+            adj.add(new ArrayList<>());
         }
-
-        int[] inDegree = new int[numCourses];
-        for( int[] p: prerequisites){
+        
+        int[] indegree = new int[numCourses];
+        for (int[] p : prerequisites) {
             int dest = p[0];
             int src = p[1];
-            adjList.get(src).add(dest);
-            inDegree[dest]++;
-
-           
+            adj.get(src).add(dest);
+            indegree[dest]++;
         }
-    }
-    Queue<Integer> queue = new LinkedList<>();
-    for(int i =1; i < numCourses; i++){
-        if (inDegree[i] == 0) {
+        
+        Queue<Integer> queue = new LinkedList<>();
+        for (int i = 0; i < numCourses; i++) {
+            if (indegree[i] == 0) {
                 queue.offer(i);
             }
-
-
-    }
-
-    int[] order = new int[numCourses];
-        int index = 0;
+        }
+        
+        int[] order = new int[numCourses];
+        int idx = 0;
+        
         while (!queue.isEmpty()) {
             int curr = queue.poll();
-            order[index++] = curr;
+            order[idx++] = curr;
             
-            for (int neighbor : adjList.get(curr)) {
-                inDegree[neighbor]--;
-                if (inDegree[neighbor] == 0) {
+            for (int neighbor : adj.get(curr)) {
+                indegree[neighbor]--;
+                if (indegree[neighbor] == 0) {
                     queue.offer(neighbor);
                 }
             }
         }
-        if (index == numCourses) {
+        
+        if (idx == numCourses) {
             return order;
         }
-                return new int[0];
+        
+        return new int[0];
+    }
 }
