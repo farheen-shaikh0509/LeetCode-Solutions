@@ -132,6 +132,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0243-shortest-word-distance](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0243-shortest-word-distance) |
 | [0246-strobogrammatic-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0246-strobogrammatic-number) |
 | [0257-binary-tree-paths](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -468,6 +469,7 @@
 | [0206-reverse-linked-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -563,6 +565,7 @@
 | [0152-maximum-product-subarray](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -734,6 +737,7 @@
 | [0168-excel-sheet-column-title](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -897,6 +901,7 @@
 | [0070-climbing-stairs](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0894-all-possible-full-binary-trees](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [1137-n-th-tribonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -1062,6 +1067,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Rejection Sampling
 |  |
