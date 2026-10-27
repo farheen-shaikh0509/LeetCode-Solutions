@@ -265,6 +265,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0815-bus-routes](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0815-bus-routes) |
 | [0875-koko-eating-bananas](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1043-partition-array-for-maximum-sum](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1254-number-of-closed-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -575,6 +576,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [1043-partition-array-for-maximum-sum](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -738,6 +740,7 @@
 | [0415-add-strings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0470-implement-rand10-using-rand7](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0509-fibonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -1129,4 +1132,16 @@
 |  |
 | ------- |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
