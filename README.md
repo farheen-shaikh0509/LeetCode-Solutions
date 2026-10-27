@@ -464,6 +464,7 @@
 | [0326-power-of-three](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0894-all-possible-full-binary-trees](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0894-all-possible-full-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -569,6 +570,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0894-all-possible-full-binary-trees](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [1137-n-th-tribonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
@@ -758,6 +760,7 @@
 | [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0666-path-sum-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0666-path-sum-iv) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -827,6 +830,7 @@
 | [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0666-path-sum-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0666-path-sum-iv) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -869,6 +873,7 @@
 | [0139-word-break](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0894-all-possible-full-binary-trees](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [1137-n-th-tribonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Knapsack Problem
 |  |
