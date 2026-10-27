@@ -363,6 +363,7 @@
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1763-longest-nice-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -831,6 +832,7 @@
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -868,6 +870,7 @@
 | [1254-number-of-closed-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
@@ -901,6 +904,7 @@
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bit Manipulation
 |  |
@@ -1084,11 +1088,13 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Longest Common Subsequence
 |  |
 | ------- |
