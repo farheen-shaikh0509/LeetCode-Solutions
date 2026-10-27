@@ -784,6 +784,7 @@
 | [0877-stone-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1492-the-kth-factor-of-n](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1641-count-sorted-vowel-strings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -1165,6 +1166,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2979-most-expensive-item-that-can-not-be-bought](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2979-most-expensive-item-that-can-not-be-bought) |
@@ -1212,4 +1214,8 @@
 |  |
 | ------- |
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
