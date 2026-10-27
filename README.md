@@ -249,6 +249,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0422-valid-word-square](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0422-valid-word-square) |
 | [0435-non-overlapping-intervals](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0465-optimal-account-balancing](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0465-optimal-account-balancing) |
 | [0474-ones-and-zeroes](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0621-task-scheduler](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -558,6 +559,7 @@
 | [0392-is-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0465-optimal-account-balancing](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0465-optimal-account-balancing) |
 | [0474-ones-and-zeroes](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -655,6 +657,7 @@
 | [0212-word-search-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0401-binary-watch) |
+| [0465-optimal-account-balancing](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0465-optimal-account-balancing) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -837,6 +840,7 @@
 | [0389-find-the-difference](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0465-optimal-account-balancing](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0465-optimal-account-balancing) |
 | [0645-set-mismatch](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1763-longest-nice-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
@@ -884,6 +888,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0465-optimal-account-balancing](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0465-optimal-account-balancing) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 ## Combinatorics
 |  |
