@@ -296,6 +296,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3173-bitwise-or-of-adjacent-elements) |
+| [3205-maximum-array-hopping-score-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3205-maximum-array-hopping-score-i) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -598,6 +599,7 @@
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2979-most-expensive-item-that-can-not-be-bought](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2979-most-expensive-item-that-can-not-be-bought) |
+| [3205-maximum-array-hopping-score-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3205-maximum-array-hopping-score-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
@@ -620,6 +622,7 @@
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2938-separate-black-and-white-balls](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2938-separate-black-and-white-balls) |
+| [3205-maximum-array-hopping-score-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3205-maximum-array-hopping-score-i) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 ## Prefix Sum
@@ -707,6 +710,7 @@
 | [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3205-maximum-array-hopping-score-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3205-maximum-array-hopping-score-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -726,6 +730,7 @@
 | [0085-maximal-rectangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
+| [3205-maximum-array-hopping-score-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3205-maximum-array-hopping-score-i) |
 ## Math
 |  |
 | ------- |
