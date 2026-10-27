@@ -504,6 +504,7 @@
 | [0420-strong-password-checker](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0420-strong-password-checker/) | Hard |
 | [0621-task-scheduler](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 ## Matrix
 |  |
 | ------- |
@@ -925,6 +926,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [1971-find-if-path-exists-in-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
@@ -1065,6 +1067,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -1098,4 +1101,8 @@
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 <!---LeetCode Topics End-->
