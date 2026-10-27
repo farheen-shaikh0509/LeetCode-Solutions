@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.List;
-
 public class Solution {
     public int[] toArray(Node head) {
         List<Integer> list = new ArrayList<>();
