@@ -472,6 +472,7 @@
 | [0234-palindrome-linked-list](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 ## Recursion
 |  |
@@ -801,6 +802,7 @@
 | [2396-strictly-palindromic-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2979-most-expensive-item-that-can-not-be-bought](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2979-most-expensive-item-that-can-not-be-bought) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -1184,6 +1186,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2979-most-expensive-item-that-can-not-be-bought](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2979-most-expensive-item-that-can-not-be-bought) |
 ## Doubly-Linked List
 |  |
