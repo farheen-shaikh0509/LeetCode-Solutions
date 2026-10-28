@@ -289,6 +289,7 @@
 | [1730-shortest-path-to-get-food](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1730-shortest-path-to-get-food) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1874-minimize-product-sum-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [1901-find-a-peak-element-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1929-concatenation-of-array/) | Easy |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
@@ -450,6 +451,7 @@
 | [0645-set-mismatch](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
 | [1387-sort-integers-by-the-power-value](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
+| [1874-minimize-product-sum-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
@@ -642,6 +644,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1382-balance-a-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1874-minimize-product-sum-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
