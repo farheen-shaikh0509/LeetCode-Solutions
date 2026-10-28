@@ -1,8 +1,9 @@
 class Solution {
-    public int minCost(int[][] grid) {
-    int m = grid.length, n = grid[0].length;
-    boolean[][][] dp = new boolean[m][n][1024];
-    dp[0][0][grid[0][0]] = true;
+  
+  public int minCost(int[][] grid) {
+  int m = grid.length, n = grid[0].length;
+  boolean[][][] dp = new boolean[m][n][1024];
+  dp[0][0][grid[0][0]] = true;
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
