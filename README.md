@@ -254,6 +254,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0422-valid-word-square](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0422-valid-word-square) |
 | [0435-non-overlapping-intervals](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0456-132-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0465-optimal-account-balancing](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0465-optimal-account-balancing) |
 | [0474-ones-and-zeroes](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0621-task-scheduler](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
@@ -417,6 +418,7 @@
 | [0367-valid-perfect-square](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0456-132-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
@@ -730,6 +732,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1504-count-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
@@ -754,6 +757,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [1504-count-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [3205-maximum-array-hopping-score-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3205-maximum-array-hopping-score-i) |
@@ -1229,4 +1233,8 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
