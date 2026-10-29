@@ -303,6 +303,7 @@
 | [2393-count-strictly-increasing-subarrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2393-count-strictly-increasing-subarrays) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
+| [2519-count-the-number-of-k-big-indices](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
 | [2534-time-taken-to-cross-the-door](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2534-time-taken-to-cross-the-door) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -428,6 +429,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2519-count-the-number-of-k-big-indices](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Sorting
@@ -686,6 +688,7 @@
 | [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1763-longest-nice-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
+| [2519-count-the-number-of-k-big-indices](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
 ## Simulation
 |  |
 | ------- |
@@ -1074,6 +1077,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [2519-count-the-number-of-k-big-indices](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
 ## Quickselect
 |  |
 | ------- |
@@ -1156,11 +1160,13 @@
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1395-count-number-of-teams) |
+| [2519-count-the-number-of-k-big-indices](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1395-count-number-of-teams) |
+| [2519-count-the-number-of-k-big-indices](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Queue
 |  |
@@ -1249,6 +1255,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0456-132-pattern) |
+| [2519-count-the-number-of-k-big-indices](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
 ## Geometry
 |  |
 | ------- |
