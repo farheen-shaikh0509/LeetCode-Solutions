@@ -301,6 +301,7 @@
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2305-fair-distribution-of-cookies](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
+| [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2355-maximum-number-of-books-you-can-take) |
 | [2393-count-strictly-increasing-subarrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2393-count-strictly-increasing-subarrays) |
 | [2408-design-sql](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2408-design-sql) |
@@ -659,6 +660,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
