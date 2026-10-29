@@ -182,6 +182,7 @@
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -321,6 +322,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3687-library-late-fee-calculator](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3687-library-late-fee-calculator) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -699,6 +701,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1763-longest-nice-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [2519-count-the-number-of-k-big-indices](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -863,6 +866,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -903,6 +907,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -960,6 +965,7 @@
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Interactive
 |  |
@@ -1175,12 +1181,14 @@
 | [1395-count-number-of-teams](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1395-count-number-of-teams) |
 | [2519-count-the-number-of-k-big-indices](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1395-count-number-of-teams) |
 | [2519-count-the-number-of-k-big-indices](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Queue
 |  |
 | ------- |
