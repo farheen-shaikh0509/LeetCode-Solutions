@@ -301,6 +301,7 @@
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2305-fair-distribution-of-cookies](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
+| [2355-maximum-number-of-books-you-can-take](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2355-maximum-number-of-books-you-can-take) |
 | [2393-count-strictly-increasing-subarrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2393-count-strictly-increasing-subarrays) |
 | [2408-design-sql](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2408-design-sql) |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
@@ -630,6 +631,7 @@
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2305-fair-distribution-of-cookies](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2305-fair-distribution-of-cookies) |
+| [2355-maximum-number-of-books-you-can-take](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2355-maximum-number-of-books-you-can-take) |
 | [2393-count-strictly-increasing-subarrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2393-count-strictly-increasing-subarrays) |
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
@@ -754,6 +756,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1504-count-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2355-maximum-number-of-books-you-can-take](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2355-maximum-number-of-books-you-can-take) |
 | [3205-maximum-array-hopping-score-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3205-maximum-array-hopping-score-i) |
 ## Sliding Window
 |  |
@@ -777,6 +780,7 @@
 | [0456-132-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [1504-count-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
+| [2355-maximum-number-of-books-you-can-take](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2355-maximum-number-of-books-you-can-take) |
 | [3205-maximum-array-hopping-score-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3205-maximum-array-hopping-score-i) |
 ## Math
 |  |
