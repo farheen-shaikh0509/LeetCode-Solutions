@@ -175,6 +175,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
+| [2408-design-sql](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2408-design-sql) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2938-separate-black-and-white-balls](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2938-separate-black-and-white-balls) |
 | [3110-score-of-a-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
@@ -301,6 +302,7 @@
 | [2305-fair-distribution-of-cookies](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
 | [2393-count-strictly-increasing-subarrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2393-count-strictly-increasing-subarrays) |
+| [2408-design-sql](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2408-design-sql) |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
@@ -372,6 +374,7 @@
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1763-longest-nice-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2408-design-sql](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2408-design-sql) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -1075,6 +1078,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [1429-first-unique-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1429-first-unique-number) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1570-dot-product-of-two-sparse-vectors) |
+| [2408-design-sql](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2408-design-sql) |
 ## Merge Sort
 |  |
 | ------- |
