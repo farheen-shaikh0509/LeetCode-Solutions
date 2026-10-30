@@ -82,6 +82,7 @@
 | [1699-number-of-calls-between-two-persons](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1699-number-of-calls-between-two-persons/) | Medium |
 | [1729-find-followers-count](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1795-rearrange-products-table) |
 | [1811-find-interview-candidates](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/1811-find-interview-candidates/) | Medium |
