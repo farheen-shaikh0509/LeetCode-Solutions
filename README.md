@@ -231,6 +231,7 @@
 | [0169-majority-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0198-house-robber](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -519,6 +520,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
@@ -567,6 +569,7 @@
 | [0074-search-a-2d-matrix](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0200-number-of-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0407-trapping-rain-water-ii/) | Hard |
@@ -888,6 +891,7 @@
 | [0101-symmetric-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -1070,6 +1074,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0399-evaluate-division) |
