@@ -1,5 +1,3 @@
-import pandas as pd
-
 def modifySalaryColumn(employees: pd.DataFrame) -> pd.DataFrame:
     if employees is None or employees.empty:
         return pd.DataFrame()
