@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 SELECT s.id, s.name
 FROM Students s
 LEFT JOIN Departments d
