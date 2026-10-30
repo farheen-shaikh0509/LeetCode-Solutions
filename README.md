@@ -175,6 +175,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
+| [2330-valid-palindrome-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2330-valid-palindrome-iv) |
 | [2408-design-sql](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2408-design-sql) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2938-separate-black-and-white-balls](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2938-separate-black-and-white-balls) |
@@ -411,6 +412,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2330-valid-palindrome-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2330-valid-palindrome-iv) |
 | [2396-strictly-palindromic-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
 | [2938-separate-black-and-white-balls](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2938-separate-black-and-white-balls) |
