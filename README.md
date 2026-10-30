@@ -323,6 +323,7 @@
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3668-restore-finishing-order](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3687-library-late-fee-calculator](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3687-library-late-fee-calculator) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -384,6 +385,7 @@
 | [2408-design-sql](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2408-design-sql) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3668-restore-finishing-order](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
