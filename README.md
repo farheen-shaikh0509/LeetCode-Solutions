@@ -184,6 +184,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## String Matching
 |  |
 | ------- |
@@ -553,6 +554,7 @@
 | [0621-task-scheduler](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -1061,6 +1063,7 @@
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Union-Find
 |  |
 | ------- |
@@ -1215,6 +1218,7 @@
 | [0399-evaluate-division](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
