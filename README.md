@@ -161,6 +161,7 @@
 | [0459-repeated-substring-pattern](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0535-encode-and-decode-tinyurl](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [0642-design-search-autocomplete-system](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0642-design-search-autocomplete-system) |
 | [0647-palindromic-substrings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
@@ -480,6 +481,7 @@
 | [0414-third-maximum-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0642-design-search-autocomplete-system](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0642-design-search-autocomplete-system) |
 | [0645-set-mismatch](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0937-reorder-data-in-log-files) |
@@ -573,6 +575,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0420-strong-password-checker](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0420-strong-password-checker/) | Hard |
 | [0621-task-scheduler](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0642-design-search-autocomplete-system](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0642-design-search-autocomplete-system) |
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -945,6 +948,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0642-design-search-autocomplete-system](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0642-design-search-autocomplete-system) |
 | [0666-path-sum-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0666-path-sum-iv) |
 | [0733-flood-fill](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -1124,6 +1128,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+| [0642-design-search-autocomplete-system](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0642-design-search-autocomplete-system) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -1143,6 +1148,7 @@
 | [0359-logger-rate-limiter](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0359-logger-rate-limiter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0535-encode-and-decode-tinyurl](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [0642-design-search-autocomplete-system](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0642-design-search-autocomplete-system) |
 | [1429-first-unique-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1429-first-unique-number) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [2408-design-sql](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2408-design-sql) |
@@ -1204,6 +1210,7 @@
 | [0295-find-median-from-data-stream](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0346-moving-average-from-data-stream](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0359-logger-rate-limiter) |
+| [0642-design-search-autocomplete-system](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0642-design-search-autocomplete-system) |
 | [1429-first-unique-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1429-first-unique-number) |
 ## Bracket Sequences
 |  |
