@@ -302,6 +302,7 @@
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [1901-find-a-peak-element-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [1920-build-array-from-permutation](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1929-concatenation-of-array/) | Easy |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -738,6 +739,7 @@
 | [0412-fizz-buzz](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1920-build-array-from-permutation](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
