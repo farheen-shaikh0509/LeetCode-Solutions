@@ -133,6 +133,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+| [0227-basic-calculator-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0243-shortest-word-distance](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0243-shortest-word-distance) |
 | [0246-strobogrammatic-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0246-strobogrammatic-number) |
@@ -787,6 +788,7 @@
 | [0143-reorder-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
@@ -838,6 +840,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0227-basic-calculator-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0258-add-digits) |
