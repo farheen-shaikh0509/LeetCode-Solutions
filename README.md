@@ -307,6 +307,7 @@
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2305-fair-distribution-of-cookies](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
+| [2323-find-minimum-time-to-finish-all-jobs-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2323-find-minimum-time-to-finish-all-jobs-ii) |
 | [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2355-maximum-number-of-books-you-can-take) |
 | [2393-count-strictly-increasing-subarrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2393-count-strictly-increasing-subarrays) |
@@ -475,6 +476,7 @@
 | [1387-sort-integers-by-the-power-value](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2323-find-minimum-time-to-finish-all-jobs-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2323-find-minimum-time-to-finish-all-jobs-ii) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
@@ -680,6 +682,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2323-find-minimum-time-to-finish-all-jobs-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2323-find-minimum-time-to-finish-all-jobs-ii) |
 | [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
