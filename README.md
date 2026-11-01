@@ -171,6 +171,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1119-remove-vowels-from-a-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1119-remove-vowels-from-a-string) |
 | [1143-longest-common-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1152-analyze-user-website-visit-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1236-web-crawler](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1236-web-crawler) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1638-count-substrings-that-differ-by-one-character) |
@@ -290,6 +291,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1140-stone-game-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1151-minimum-swaps-to-group-all-1s-together](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1151-minimum-swaps-to-group-all-1s-together) |
+| [1152-analyze-user-website-visit-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1254-number-of-closed-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -391,6 +393,7 @@
 | [0771-jewels-and-stones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0815-bus-routes](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0815-bus-routes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1152-analyze-user-website-visit-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1429-first-unique-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1429-first-unique-number) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1570-dot-product-of-two-sparse-vectors) |
@@ -491,6 +494,7 @@
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0937-reorder-data-in-log-files](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0937-reorder-data-in-log-files) |
+| [1152-analyze-user-website-visit-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1387-sort-integers-by-the-power-value](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1874-minimize-product-sum-of-two-arrays) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
