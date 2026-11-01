@@ -265,6 +265,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0422-valid-word-square](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0422-valid-word-square) |
 | [0435-non-overlapping-intervals](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0465-optimal-account-balancing](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0465-optimal-account-balancing) |
@@ -864,6 +865,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0470-implement-rand10-using-rand7](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0509-fibonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0877-stone-game) |
