@@ -284,6 +284,7 @@
 | [0815-bus-routes](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0815-bus-routes) |
 | [0875-koko-eating-bananas](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0937-reorder-data-in-log-files](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0937-reorder-data-in-log-files) |
 | [0994-rotting-oranges](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1043-partition-array-for-maximum-sum](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
@@ -429,6 +430,7 @@
 | [0443-string-compression](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -487,6 +489,7 @@
 | [0642-design-search-autocomplete-system](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0642-design-search-autocomplete-system) |
 | [0645-set-mismatch](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0937-reorder-data-in-log-files](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0937-reorder-data-in-log-files) |
 | [1387-sort-integers-by-the-power-value](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1874-minimize-product-sum-of-two-arrays) |
