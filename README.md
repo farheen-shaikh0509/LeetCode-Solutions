@@ -272,6 +272,7 @@
 | [0463-island-perimeter](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0465-optimal-account-balancing](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0465-optimal-account-balancing) |
 | [0474-ones-and-zeroes](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0531-lonely-pixel-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0531-lonely-pixel-i) |
 | [0621-task-scheduler](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -386,6 +387,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0531-lonely-pixel-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0531-lonely-pixel-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0621-task-scheduler](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -613,6 +615,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0422-valid-word-square](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0422-valid-word-square) |
 | [0463-island-perimeter](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [0531-lonely-pixel-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0531-lonely-pixel-i) |
 | [0733-flood-fill](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
