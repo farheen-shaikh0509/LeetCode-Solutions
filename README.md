@@ -180,6 +180,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2268-minimum-number-of-keypresses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2268-minimum-number-of-keypresses) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
 | [2330-valid-palindrome-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2330-valid-palindrome-iv) |
 | [2408-design-sql](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2408-design-sql) |
@@ -407,6 +408,7 @@
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [1763-longest-nice-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2268-minimum-number-of-keypresses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2268-minimum-number-of-keypresses) |
 | [2408-design-sql](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2408-design-sql) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -502,6 +504,7 @@
 | [1152-analyze-user-website-visit-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1387-sort-integers-by-the-power-value](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1874-minimize-product-sum-of-two-arrays) |
+| [2268-minimum-number-of-keypresses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2268-minimum-number-of-keypresses) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2323-find-minimum-time-to-finish-all-jobs-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2323-find-minimum-time-to-finish-all-jobs-ii) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -717,6 +720,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1874-minimize-product-sum-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1874-minimize-product-sum-of-two-arrays) |
+| [2268-minimum-number-of-keypresses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2268-minimum-number-of-keypresses) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2323-find-minimum-time-to-finish-all-jobs-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2323-find-minimum-time-to-finish-all-jobs-ii) |
 | [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
@@ -785,6 +789,7 @@
 | [0621-task-scheduler](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2268-minimum-number-of-keypresses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2268-minimum-number-of-keypresses) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Backtracking
 |  |
