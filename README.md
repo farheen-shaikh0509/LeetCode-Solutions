@@ -272,6 +272,7 @@
 | [0435-non-overlapping-intervals](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0465-optimal-account-balancing](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0465-optimal-account-balancing) |
 | [0474-ones-and-zeroes](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -503,6 +504,7 @@
 | [0389-find-the-difference](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0642-design-search-autocomplete-system](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0642-design-search-autocomplete-system) |
 | [0645-set-mismatch](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -903,6 +905,7 @@
 | [0412-fizz-buzz](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0470-implement-rand10-using-rand7](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0509-fibonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0877-stone-game) |
