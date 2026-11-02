@@ -180,6 +180,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2268-minimum-number-of-keypresses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2268-minimum-number-of-keypresses) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
 | [2330-valid-palindrome-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2330-valid-palindrome-iv) |
@@ -692,6 +693,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2297-jump-game-viii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2297-jump-game-viii) |
 | [2305-fair-distribution-of-cookies](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2355-maximum-number-of-books-you-can-take) |
@@ -743,6 +745,7 @@
 | [1140-stone-game-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
