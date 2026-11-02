@@ -185,6 +185,7 @@
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
 | [2330-valid-palindrome-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2330-valid-palindrome-iv) |
 | [2408-design-sql](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2408-design-sql) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2938-separate-black-and-white-balls](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2938-separate-black-and-white-balls) |
 | [3110-score-of-a-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
@@ -451,6 +452,7 @@
 | [2330-valid-palindrome-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2330-valid-palindrome-iv) |
 | [2396-strictly-palindromic-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -733,6 +735,7 @@
 | [2340-minimum-adjacent-swaps-to-make-a-valid-array](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2340-minimum-adjacent-swaps-to-make-a-valid-array) |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2938-separate-black-and-white-balls](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2938-separate-black-and-white-balls) |
 | [3205-maximum-array-hopping-score-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3205-maximum-array-hopping-score-i) |
