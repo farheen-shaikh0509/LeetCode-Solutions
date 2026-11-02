@@ -333,6 +333,7 @@
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2519-count-the-number-of-k-big-indices](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
 | [2534-time-taken-to-cross-the-door](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2534-time-taken-to-cross-the-door) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -412,6 +413,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2268-minimum-number-of-keypresses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2268-minimum-number-of-keypresses) |
 | [2408-design-sql](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2408-design-sql) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3668-restore-finishing-order](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
@@ -852,6 +854,7 @@
 | [1763-longest-nice-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Monotonic Stack
 |  |
