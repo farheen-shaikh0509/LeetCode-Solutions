@@ -351,6 +351,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3668-restore-finishing-order](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3687-library-late-fee-calculator](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3687-library-late-fee-calculator) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -924,6 +925,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2979-most-expensive-item-that-can-not-be-bought](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2979-most-expensive-item-that-can-not-be-bought) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3886-sum-of-sortable-integers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
