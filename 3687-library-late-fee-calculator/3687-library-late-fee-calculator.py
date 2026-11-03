@@ -1,15 +1,11 @@
 class Solution:
-    def lateFee(self, daysLate: list[int]) -> int:
-        if not daysLate:
-            return 0
-        
-        total_penalty = 0
-        for days in daysLate:
-            if days == 1:
-                total_penalty += 1
-            elif days <= 5:
-                total_penalty += 2 * days
+    def lateFee(self, daysLate: List[int]) -> int:
+        total_fee = 0
+        for x in daysLate:
+            if x == 1:
+                total_fee += x
+            elif x >= 6:
+                total_fee += 3 * x
             else:
-                total_penalty += 3 * days
-                
-        return total_penalty
+                total_fee += 2 * x
+        return total_fee
