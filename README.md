@@ -299,6 +299,7 @@
 | [0937-reorder-data-in-log-files](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0937-reorder-data-in-log-files) |
 | [0994-rotting-oranges](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1043-partition-array-for-maximum-sum](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1140-stone-game-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1151-minimum-swaps-to-group-all-1s-together](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1151-minimum-swaps-to-group-all-1s-together) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1152-analyze-user-website-visit-pattern) |
@@ -519,6 +520,7 @@
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0937-reorder-data-in-log-files](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0937-reorder-data-in-log-files) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1387-sort-integers-by-the-power-value](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1387-sort-integers-by-the-power-value) |
@@ -1189,6 +1191,7 @@
 | [0261-graph-valid-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0399-evaluate-division) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1254-number-of-closed-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
