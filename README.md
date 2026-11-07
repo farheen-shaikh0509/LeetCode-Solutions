@@ -348,6 +348,7 @@
 | [2545-sort-the-students-by-their-kth-score](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2638-count-the-number-of-k-free-subsets](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2638-count-the-number-of-k-free-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3205-maximum-array-hopping-score-i](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3205-maximum-array-hopping-score-i) |
@@ -426,6 +427,7 @@
 | [2408-design-sql](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2408-design-sql) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3668-restore-finishing-order](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -531,6 +533,7 @@
 | [2323-find-minimum-time-to-finish-all-jobs-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2323-find-minimum-time-to-finish-all-jobs-ii) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2638-count-the-number-of-k-free-subsets](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2638-count-the-number-of-k-free-subsets) |
+| [2747-count-zero-request-servers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3886-sum-of-sortable-integers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -883,6 +886,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2747-count-zero-request-servers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Monotonic Stack
 |  |
