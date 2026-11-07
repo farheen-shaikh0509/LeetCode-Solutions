@@ -295,6 +295,7 @@
 | [0740-delete-and-earn](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0815-bus-routes](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0815-bus-routes) |
+| [0853-car-fleet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -524,6 +525,7 @@
 | [0642-design-search-autocomplete-system](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0642-design-search-autocomplete-system) |
 | [0645-set-mismatch](https://github.com/farheen-shaikh0509/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
+| [0853-car-fleet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0937-reorder-data-in-log-files](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0937-reorder-data-in-log-files) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
@@ -873,6 +875,7 @@
 | [0456-132-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0853-car-fleet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1504-count-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
@@ -903,6 +906,7 @@
 | [0316-remove-duplicate-letters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
+| [0853-car-fleet](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [1504-count-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [2297-jump-game-viii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2297-jump-game-viii) |
 | [2355-maximum-number-of-books-you-can-take](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2355-maximum-number-of-books-you-can-take) |
