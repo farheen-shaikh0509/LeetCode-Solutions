@@ -106,6 +106,7 @@
 | [2854-rolling-average-steps](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2854-rolling-average-steps/) | Medium |
 | [2985-calculate-compressed-mean](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/2985-calculate-compressed-mean/) | Easy |
 | [3124-find-longest-calls](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/3124-find-longest-calls/) | Medium |
+| [3204-bitwise-user-permissions-analysis](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3204-bitwise-user-permissions-analysis) |
 | [3230-customer-purchasing-behavior-analysis](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/3230-customer-purchasing-behavior-analysis/) | Medium |
 | [3521-find-product-recommendation-pairs](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/3521-find-product-recommendation-pairs/) | Medium |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/3601-find-drivers-with-improved-fuel-efficiency/) | Medium |
