@@ -113,6 +113,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0010-regular-expression-matching/) | Hard |
@@ -443,6 +444,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
@@ -677,6 +679,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0010-regular-expression-matching/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
@@ -1466,4 +1469,8 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
