@@ -221,6 +221,7 @@
 | [0053-maximum-subarray](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
@@ -510,6 +511,7 @@
 | [0016-3sum-closest](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/farheen-shaikh530/LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -1190,6 +1192,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0252-meeting-rooms](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0252-meeting-rooms) |
 ## Graph Theory
 |  |
