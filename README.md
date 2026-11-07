@@ -150,6 +150,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0408-valid-word-abbreviation](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0408-valid-word-abbreviation) |
@@ -572,6 +573,7 @@
 | [0273-integer-to-english-words](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0894-all-possible-full-binary-trees](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1265-print-immutable-linked-list-in-reverse) |
@@ -864,6 +866,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0654-maximum-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
