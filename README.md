@@ -973,6 +973,7 @@
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2638-count-the-number-of-k-free-subsets](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2638-count-the-number-of-k-free-subsets) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2979-most-expensive-item-that-can-not-be-bought](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2979-most-expensive-item-that-can-not-be-bought) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
