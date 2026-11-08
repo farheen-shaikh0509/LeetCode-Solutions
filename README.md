@@ -312,6 +312,7 @@
 | [1151-minimum-swaps-to-group-all-1s-together](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1151-minimum-swaps-to-group-all-1s-together) |
 | [1152-analyze-user-website-visit-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1152-analyze-user-website-visit-pattern) |
 | [1254-number-of-closed-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -622,6 +623,7 @@
 | [1236-web-crawler](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1236-web-crawler) |
 | [1254-number-of-closed-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1730-shortest-path-to-get-food](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1730-shortest-path-to-get-food) |
 | [1971-find-if-path-exists-in-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -666,6 +668,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1504-count-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1672-richest-customer-wealth](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -845,6 +848,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2268-minimum-number-of-keypresses](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2268-minimum-number-of-keypresses) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
@@ -1054,6 +1058,7 @@
 | [1236-web-crawler](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1236-web-crawler) |
 | [1254-number-of-closed-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
@@ -1225,6 +1230,7 @@
 | [0399-evaluate-division](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0399-evaluate-division) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1254-number-of-closed-islands](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2307-check-for-contradictions-in-equations](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2307-check-for-contradictions-in-equations) |
 ## Trie
