@@ -323,6 +323,7 @@
 | [1504-count-submatrices-with-all-ones](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1539-kth-missing-positive-number](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1570-dot-product-of-two-sparse-vectors) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -641,6 +642,7 @@
 | [0621-task-scheduler](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0642-design-search-autocomplete-system](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0642-design-search-autocomplete-system) |
 | [0767-reorganize-string](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/0767-reorganize-string/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -832,6 +834,7 @@
 | [0412-fizz-buzz](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/farheen-shaikh530/LeetCode-Solutions-Java-JavaScript-SQL/tree/main/1929-concatenation-of-array/) | Easy |
@@ -1463,6 +1466,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0456-132-pattern](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/0456-132-pattern) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2519-count-the-number-of-k-big-indices](https://github.com/farheenshabbirs1/LeetCode-Solutions/tree/master/2519-count-the-number-of-k-big-indices) |
 ## Geometry
 |  |
